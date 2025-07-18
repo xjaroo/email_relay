@@ -2,7 +2,7 @@
 
 This is a lightweight, self-hosted SMTP relay server written in Python using `aiosmtpd`. It is designed to receive scanned documents from a multifunction printer (MFP), and securely forward them to intended recipients via the [Mailgun](https://www.mailgun.com/) email API.
 
----
+--- 
 
 ## ✨ Features
 
